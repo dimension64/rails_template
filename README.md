@@ -13,8 +13,8 @@ spork server
 --> bundle exec spork
 
 
-#   time bundle exec rspec 
-#    bundle exec spec/requests/static_pages_spec.rb --drb
+time bundle exec rspec 
+bundle exec spec/requests/static_pages_spec.rb --drb
 
 
 
